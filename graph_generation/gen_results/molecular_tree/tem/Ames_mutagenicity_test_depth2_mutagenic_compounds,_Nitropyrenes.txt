@@ -1,0 +1,13 @@
+mutagenic compounds, Nitropyrenes, 1-Nitropyrenes
+mutagenic compounds, Nitropyrenes, 3-Dinitropyrenes
+mutagenic compounds, Nitropyrenes, 6-Dinitropyrenes
+mutagenic compounds, Nitropyrenes, 8-Dinitropyrenes
+mutagenic compounds, Nitropyrenes, 1-Nitropyrene with alkyl substitutions
+mutagenic compounds, Nitropyrenes, 1-Nitropyrene with halogen substitutions
+mutagenic compounds, Nitropyrenes, 1-Nitropyrene with carbonyl substitutions
+mutagenic compounds, Nitropyrenes, 1-Nitropyrene with amino substitutions
+mutagenic compounds, Nitropyrenes, Hydroxylated Nitropyrenes
+mutagenic compounds, Nitropyrenes, Nitro-hydroxypyrenes
+mutagenic compounds, Nitropyrenes, Tetranitropyrenes
+mutagenic compounds, Nitropyrenes, Hydrogenated Nitropyrenes
+mutagenic compounds, Nitropyrenes, Nitropyrene quinones

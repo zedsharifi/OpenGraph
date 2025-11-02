@@ -1,0 +1,9 @@
+mutagenic compounds, Benzidines, 3'-Disubstituted Benzidines
+mutagenic compounds, Benzidines, 3'-Dihalobenzidines
+mutagenic compounds, Benzidines, 3'-Dialkoxybenzidines
+mutagenic compounds, Benzidines, 3'-Dialkylbenzidines
+mutagenic compounds, Benzidines, Benzidine-based Azo Dyes
+mutagenic compounds, Benzidines, 3'-Disubstituted Benzidine-based Azo Dyes
+mutagenic compounds, Benzidines, 2-Substituted Benzidines
+mutagenic compounds, Benzidines, N-acetylated Benzidines
+mutagenic compounds, Benzidines, N'-Diacetylated Benzidines

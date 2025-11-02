@@ -1,0 +1,20 @@
+mutagenic compounds, Haloalkanes, Primary Haloalkanes (C1-C6)
+mutagenic compounds, Haloalkanes, Secondary Haloalkanes (C1-C6)
+mutagenic compounds, Haloalkanes, Tertiary Haloalkanes (C1-C6)
+mutagenic compounds, Haloalkanes, Alpha-Halo Ketones
+mutagenic compounds, Haloalkanes, Alpha-Halo Esters
+mutagenic compounds, Haloalkanes, Vicinal Dihaloalkanes
+mutagenic compounds, Haloalkanes, Geminal Dihaloalkanes
+mutagenic compounds, Haloalkanes, Allylic Halides
+mutagenic compounds, Haloalkanes, Benzylic Halides
+mutagenic compounds, Haloalkanes, Haloalkanes with Electron-Withdrawing Groups
+mutagenic compounds, Haloalkanes, Haloalkanes with Electron-Donating Groups
+mutagenic compounds, Haloalkanes, Cyclic Haloalkanes (C3-C6)
+mutagenic compounds, Haloalkanes, Polyhalogenated Alkanes
+mutagenic compounds, Haloalkanes, Fluoroalkanes
+mutagenic compounds, Haloalkanes, Chloroalkanes
+mutagenic compounds, Haloalkanes, Bromoalkanes
+mutagenic compounds, Haloalkanes, Iodoalkanes
+mutagenic compounds, Haloalkanes, Alpha-Haloethers
+mutagenic compounds, Haloalkanes, Halocyclopropanes
+mutagenic compounds, Haloalkanes, Halocyclobutanes

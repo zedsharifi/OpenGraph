@@ -1,0 +1,10 @@
+mutagenic compounds, Furans, Furan aldehydes
+mutagenic compounds, Furans, Nitrofurans
+mutagenic compounds, Furans, Halogenated furans
+mutagenic compounds, Furans, Alkylfurans
+mutagenic compounds, Furans, Furan carboxylic acids
+mutagenic compounds, Furans, Unsaturated furans
+mutagenic compounds, Furans, Benzofurans
+mutagenic compounds, Furans, Dibenzofurans
+mutagenic compounds, Furans, Furan epoxides
+mutagenic compounds, Furans, Furanones

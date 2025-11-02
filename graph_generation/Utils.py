@@ -12,7 +12,7 @@ import time
 from google.colab import userdata
 # Configure Gemini API
 # Assumes you have your Gemini key saved in Colab Secrets as 'GEMINI_API_KEY'
-API_KEY = userdata.get('API_KEY_1')
+API_KEY = userdata.get('API_key_1')
 genai.configure(api_key=API_KEY)
 
 class DataGenAgent:
@@ -23,7 +23,7 @@ class DataGenAgent:
         
         # Initialize Gemini models
         # Using 1.5 Pro to fulfill your "2.5 Pro" request
-        self.text_model = genai.GenerativeModel('gemini-1.5-pro-latest')
+        self.text_model = genai.GenerativeModel('gemini-2.5-pro')
         self.embedding_model = 'models/text-embedding-004' # Google's latest embedding model
     
     def openai_embedding(self, message):

@@ -1,0 +1,21 @@
+mutagenic compounds, Peroxides, Diacyl Peroxides
+mutagenic compounds, Peroxides, Dialkyl Peroxides
+mutagenic compounds, Peroxides, Peroxy Acids
+mutagenic compounds, Peroxides, Hydroperoxides
+mutagenic compounds, Peroxides, Cyclic Peroxides (3-membered)
+mutagenic compounds, Peroxides, Cyclic Peroxides (4-membered)
+mutagenic compounds, Peroxides, Cyclic Peroxides (5-membered or larger)
+mutagenic compounds, Peroxides, Polymeric Peroxides
+mutagenic compounds, Peroxides, Inorganic Peroxides
+mutagenic compounds, Peroxides, Peroxide Esters
+mutagenic compounds, Peroxides, α-Hydroxy Peroxides
+mutagenic compounds, Peroxides, α-Amino Peroxides
+mutagenic compounds, Peroxides, Polyether Peroxides
+mutagenic compounds, Peroxides, Aromatic Peroxides
+mutagenic compounds, Peroxides, Peroxides with conjugated double bonds
+mutagenic compounds, Peroxides, Peroxides with electron-withdrawing groups
+mutagenic compounds, Peroxides, Peroxides with electron-donating groups
+mutagenic compounds, Peroxides, Chiral Peroxides
+mutagenic compounds, Peroxides, Fluorinated Peroxides
+mutagenic compounds, Peroxides, Halogenated Peroxides (excluding Fluorine)
+mutagenic compounds, Peroxides, Metal Peroxides

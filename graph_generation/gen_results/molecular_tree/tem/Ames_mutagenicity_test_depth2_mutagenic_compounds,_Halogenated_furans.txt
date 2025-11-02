@@ -1,0 +1,19 @@
+mutagenic compounds, Halogenated furans, 2-Halofurans
+mutagenic compounds, Halogenated furans, 3-Halofurans
+mutagenic compounds, Halogenated furans, 3-Dihalofurans
+mutagenic compounds, Halogenated furans, 5-Dihalofurans
+mutagenic compounds, Halogenated furans, 4-Dihalofurans
+mutagenic compounds, Halogenated furans, Trihalofurans
+mutagenic compounds, Halogenated furans, Tetrahalofurans
+mutagenic compounds, Halogenated furans, Chlorofurans
+mutagenic compounds, Halogenated furans, Bromofurans
+mutagenic compounds, Halogenated furans, Iodofurans
+mutagenic compounds, Halogenated furans, Fluorofurans
+mutagenic compounds, Halogenated furans, Mixed Halofurans (Cl/Br)
+mutagenic compounds, Halogenated furans, Mixed Halofurans (Cl/I)
+mutagenic compounds, Halogenated furans, Mixed Halofurans (Br/I)
+mutagenic compounds, Halogenated furans, Halofurans with alkyl substituents
+mutagenic compounds, Halogenated furans, Halofurans with nitro substituents
+mutagenic compounds, Halogenated furans, Halofurans with carbonyl substituents
+mutagenic compounds, Halogenated furans, Halofurans with amino substituents
+mutagenic compounds, Halogenated furans, Halofurans with carboxylic acid substituents

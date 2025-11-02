@@ -1,0 +1,7 @@
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Styrenes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Phenylbutadienes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Alkylidenecyclohexanes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Arylpropenes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Benzylidene derivatives
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Fulvenes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Diarylethylenes

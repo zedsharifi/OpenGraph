@@ -1,0 +1,20 @@
+mutagenic compounds, β-lactones, 4-Substituted β-lactones
+mutagenic compounds, β-lactones, 3-Substituted β-lactones
+mutagenic compounds, β-lactones, β-Unsaturated β-lactones
+mutagenic compounds, β-lactones, Spiro-β-lactones
+mutagenic compounds, β-lactones, Bicyclic β-lactones
+mutagenic compounds, β-lactones, Fused β-lactones
+mutagenic compounds, β-lactones, β-Lactones with exocyclic unsaturation
+mutagenic compounds, β-lactones, Halogenated β-lactones
+mutagenic compounds, β-lactones, Alkyl substituted β-lactones
+mutagenic compounds, β-lactones, Aryl substituted β-lactones
+mutagenic compounds, β-lactones, β-Lactones with carbonyl substituents
+mutagenic compounds, β-lactones, β-Lactones with nitrogen substituents
+mutagenic compounds, β-lactones, β-Lactones with oxygen substituents
+mutagenic compounds, β-lactones, β-Lactones with sulfur substituents
+mutagenic compounds, β-lactones, β-Lactones with phosphorus substituents
+mutagenic compounds, β-lactones, β-Lactones fused to heterocycles
+mutagenic compounds, β-lactones, β-Lactones with quaternary carbon at C4
+mutagenic compounds, β-lactones, β-Lactones with quaternary carbon at C3
+mutagenic compounds, β-lactones, β-Lactones with strained ring systems
+mutagenic compounds, β-lactones, β-Lactones with large substituents at C4

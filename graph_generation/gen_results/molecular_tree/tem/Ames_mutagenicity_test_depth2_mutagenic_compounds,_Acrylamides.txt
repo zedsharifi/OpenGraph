@@ -1,0 +1,12 @@
+mutagenic compounds, Acrylamides, alpha
+mutagenic compounds, Acrylamides, beta-Unsaturated Amides
+mutagenic compounds, Acrylamides, N-Substituted Acrylamides
+mutagenic compounds, Acrylamides, N-Disubstituted Acrylamides
+mutagenic compounds, Acrylamides, Glycidyl Acrylamides
+mutagenic compounds, Acrylamides, Halogenated Acrylamides
+mutagenic compounds, Acrylamides, Alkoxy Acrylamides
+mutagenic compounds, Acrylamides, Acrylamide Polymers
+mutagenic compounds, Acrylamides, Acrylamide Copolymers
+mutagenic compounds, Acrylamides, Bis-Acrylamides
+mutagenic compounds, Acrylamides, Cyanoacrylates
+mutagenic compounds, Acrylamides, Acryloyl Morpholines

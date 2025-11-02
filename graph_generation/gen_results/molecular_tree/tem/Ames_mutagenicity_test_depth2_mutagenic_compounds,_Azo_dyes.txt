@@ -1,0 +1,21 @@
+mutagenic compounds, Azo dyes, Monoazo dyes with unsubstituted phenyl rings
+mutagenic compounds, Azo dyes, Monoazo dyes with substituted phenyl rings
+mutagenic compounds, Azo dyes, Diazo dyes with unsubstituted naphthyl rings
+mutagenic compounds, Azo dyes, Diazo dyes with substituted naphthyl rings
+mutagenic compounds, Azo dyes, Trisazo dyes with unsubstituted aromatic rings
+mutagenic compounds, Azo dyes, Trisazo dyes with substituted aromatic rings
+mutagenic compounds, Azo dyes, Polyazo dyes with electron-withdrawing substituents
+mutagenic compounds, Azo dyes, Polyazo dyes with electron-donating substituents
+mutagenic compounds, Azo dyes, Azo dyes with heterocyclic coupling components
+mutagenic compounds, Azo dyes, Azo dyes with aliphatic side chains
+mutagenic compounds, Azo dyes, Azo dyes with sulfonated aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with hydroxylated aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with amino-substituted aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with nitro-substituted aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with halogenated aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with carboxylic acid groups
+mutagenic compounds, Azo dyes, Azo dyes derived from benzidine
+mutagenic compounds, Azo dyes, Azo dyes derived from o-tolidine
+mutagenic compounds, Azo dyes, Azo dyes derived from o-dianisidine
+mutagenic compounds, Azo dyes, Azo dyes with short alkyl chains
+mutagenic compounds, Azo dyes, Azo dyes with long alkyl chains

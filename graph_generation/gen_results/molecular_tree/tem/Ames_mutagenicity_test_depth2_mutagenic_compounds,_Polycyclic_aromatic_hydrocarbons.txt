@@ -1,0 +1,16 @@
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Unsubstituted PAHs with 2-3 rings
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Unsubstituted PAHs with 4-5 rings
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Unsubstituted PAHs with 6+ rings
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Alkyl-substituted PAHs
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Amino-substituted PAHs
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Nitro-substituted PAHs
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Halogenated PAHs
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Oxygenated PAHs (quinones)
+mutagenic compounds, Polycyclic aromatic hydrocarbons, PAH diol epoxides
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Methyl-substituted benz[a]anthracenes
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Dimethylbenz[a]anthracenes
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Bay-region dihydrodiols
+mutagenic compounds, Polycyclic aromatic hydrocarbons, K-region epoxides
+mutagenic compounds, Polycyclic aromatic hydrocarbons, PAH-quinones
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Benzo[c]phenanthrenes
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Cyclopenta-fused PAHs

@@ -1,0 +1,448 @@
+mutagenic compounds, Aromatic amines, Aniline derivatives
+mutagenic compounds, Aromatic amines, Benzidine derivatives
+mutagenic compounds, Aromatic amines, N-alkylated aromatic amines
+mutagenic compounds, Aromatic amines, Nitroaromatic amines
+mutagenic compounds, Aromatic amines, Heterocyclic aromatic amines
+mutagenic compounds, Aromatic amines, Aminoazobenzene derivatives
+mutagenic compounds, Aromatic amines, Aminoanthraquinone derivatives
+mutagenic compounds, Aromatic amines, Halogenated aromatic amines
+mutagenic compounds, Aromatic amines, Ortho-substituted aromatic amines
+mutagenic compounds, Aromatic amines, Polycyclic aromatic amines
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Unsubstituted PAHs with 2-3 rings
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Unsubstituted PAHs with 4-5 rings
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Unsubstituted PAHs with 6+ rings
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Alkyl-substituted PAHs
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Amino-substituted PAHs
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Nitro-substituted PAHs
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Halogenated PAHs
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Oxygenated PAHs (quinones)
+mutagenic compounds, Polycyclic aromatic hydrocarbons, PAH diol epoxides
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Methyl-substituted benz[a]anthracenes
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Dimethylbenz[a]anthracenes
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Bay-region dihydrodiols
+mutagenic compounds, Polycyclic aromatic hydrocarbons, K-region epoxides
+mutagenic compounds, Polycyclic aromatic hydrocarbons, PAH-quinones
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Benzo[c]phenanthrenes
+mutagenic compounds, Polycyclic aromatic hydrocarbons, Cyclopenta-fused PAHs
+mutagenic compounds, Nitroaromatics, Monocyclic mononitroaromatics
+mutagenic compounds, Nitroaromatics, Monocyclic dinitroaromatics
+mutagenic compounds, Nitroaromatics, Monocyclic trinitroaromatics
+mutagenic compounds, Nitroaromatics, Bicyclic mononitroaromatics
+mutagenic compounds, Nitroaromatics, Bicyclic dinitroaromatics
+mutagenic compounds, Nitroaromatics, Polycyclic mononitroaromatics
+mutagenic compounds, Nitroaromatics, Polycyclic dinitroaromatics
+mutagenic compounds, Nitroaromatics, Nitrated phenols
+mutagenic compounds, Nitroaromatics, Nitrated anilines
+mutagenic compounds, Nitroaromatics, Nitroaromatic aldehydes
+mutagenic compounds, Nitroaromatics, Nitroaromatic ketones
+mutagenic compounds, Nitroaromatics, Nitroaromatic carboxylic acids
+mutagenic compounds, Nitroaromatics, Nitroaromatic esters
+mutagenic compounds, Nitroaromatics, Nitroaromatic ethers
+mutagenic compounds, Nitroaromatics, Nitroaromatics with fused heterocyclic rings
+mutagenic compounds, Nitroaromatics, Nitroaromatics with aliphatic chains
+mutagenic compounds, Nitroaromatics, Halogenated nitroaromatics
+mutagenic compounds, Nitroaromatics, Amino-nitroaromatics
+mutagenic compounds, Nitroaromatics, Nitroaromatics with sulfonates
+mutagenic compounds, Nitroaromatics, Nitroaromatics with nitroso groups
+mutagenic compounds, Nitroaromatics, Nitroaromatics with azido groups
+mutagenic compounds, Nitroaromatics, Nitroaromatics with cyano groups
+mutagenic compounds, Nitroaromatics, Nitroaromatics with vinyl groups
+mutagenic compounds, Nitroaromatics, Nitroaromatics with acetyl groups
+mutagenic compounds, Alkylating agents, Mustard gases
+mutagenic compounds, Alkylating agents, Epoxides
+mutagenic compounds, Alkylating agents, Aziridines
+mutagenic compounds, Alkylating agents, Alkyl sulfonates
+mutagenic compounds, Alkylating agents, Alkyl halides
+mutagenic compounds, Alkylating agents, Nitrosoureas
+mutagenic compounds, Alkylating agents, Triazenes
+mutagenic compounds, Alkylating agents, Dialkyl sulfates
+mutagenic compounds, Alkylating agents, Methylating agents
+mutagenic compounds, Alkylating agents, Ethylating agents
+mutagenic compounds, Haloalkanes, Primary Haloalkanes (C1-C6)
+mutagenic compounds, Haloalkanes, Secondary Haloalkanes (C1-C6)
+mutagenic compounds, Haloalkanes, Tertiary Haloalkanes (C1-C6)
+mutagenic compounds, Haloalkanes, Alpha-Halo Ketones
+mutagenic compounds, Haloalkanes, Alpha-Halo Esters
+mutagenic compounds, Haloalkanes, Vicinal Dihaloalkanes
+mutagenic compounds, Haloalkanes, Geminal Dihaloalkanes
+mutagenic compounds, Haloalkanes, Allylic Halides
+mutagenic compounds, Haloalkanes, Benzylic Halides
+mutagenic compounds, Haloalkanes, Haloalkanes with Electron-Withdrawing Groups
+mutagenic compounds, Haloalkanes, Haloalkanes with Electron-Donating Groups
+mutagenic compounds, Haloalkanes, Cyclic Haloalkanes (C3-C6)
+mutagenic compounds, Haloalkanes, Polyhalogenated Alkanes
+mutagenic compounds, Haloalkanes, Fluoroalkanes
+mutagenic compounds, Haloalkanes, Chloroalkanes
+mutagenic compounds, Haloalkanes, Bromoalkanes
+mutagenic compounds, Haloalkanes, Iodoalkanes
+mutagenic compounds, Haloalkanes, Alpha-Haloethers
+mutagenic compounds, Haloalkanes, Halocyclopropanes
+mutagenic compounds, Haloalkanes, Halocyclobutanes
+mutagenic compounds, Aromatic epoxides, monoaromatic epoxides
+mutagenic compounds, Aromatic epoxides, polycyclic aromatic epoxides
+mutagenic compounds, Aromatic epoxides, styrene oxide derivatives
+mutagenic compounds, Aromatic epoxides, benzo[a]pyrene diol epoxides
+mutagenic compounds, Aromatic epoxides, aflatoxin epoxides
+mutagenic compounds, Aromatic epoxides, diepoxides
+mutagenic compounds, Aromatic epoxides, alkyl-substituted aromatic epoxides
+mutagenic compounds, Aromatic epoxides, halogenated aromatic epoxides
+mutagenic compounds, Aromatic epoxides, nitro-substituted aromatic epoxides
+mutagenic compounds, Aromatic epoxides, fused ring aromatic epoxides
+mutagenic compounds, Azo dyes, Monoazo dyes with unsubstituted phenyl rings
+mutagenic compounds, Azo dyes, Monoazo dyes with substituted phenyl rings
+mutagenic compounds, Azo dyes, Diazo dyes with unsubstituted naphthyl rings
+mutagenic compounds, Azo dyes, Diazo dyes with substituted naphthyl rings
+mutagenic compounds, Azo dyes, Trisazo dyes with unsubstituted aromatic rings
+mutagenic compounds, Azo dyes, Trisazo dyes with substituted aromatic rings
+mutagenic compounds, Azo dyes, Polyazo dyes with electron-withdrawing substituents
+mutagenic compounds, Azo dyes, Polyazo dyes with electron-donating substituents
+mutagenic compounds, Azo dyes, Azo dyes with heterocyclic coupling components
+mutagenic compounds, Azo dyes, Azo dyes with aliphatic side chains
+mutagenic compounds, Azo dyes, Azo dyes with sulfonated aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with hydroxylated aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with amino-substituted aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with nitro-substituted aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with halogenated aromatic rings
+mutagenic compounds, Azo dyes, Azo dyes with carboxylic acid groups
+mutagenic compounds, Azo dyes, Azo dyes derived from benzidine
+mutagenic compounds, Azo dyes, Azo dyes derived from o-tolidine
+mutagenic compounds, Azo dyes, Azo dyes derived from o-dianisidine
+mutagenic compounds, Azo dyes, Azo dyes with short alkyl chains
+mutagenic compounds, Azo dyes, Azo dyes with long alkyl chains
+mutagenic compounds, Aflatoxins, Aflatoxin B1 derivatives
+mutagenic compounds, Aflatoxins, Aflatoxin B2 derivatives
+mutagenic compounds, Aflatoxins, Aflatoxin G1 derivatives
+mutagenic compounds, Aflatoxins, Aflatoxin G2 derivatives
+mutagenic compounds, Aflatoxins, Aflatoxin M1 derivatives
+mutagenic compounds, Aflatoxins, Aflatoxin M2 derivatives
+mutagenic compounds, Aflatoxins, Aflatoxicol derivatives
+mutagenic compounds, Aflatoxins, Aflatoxin Q1 derivatives
+mutagenic compounds, Aflatoxins, Dihydro-Aflatoxin derivatives
+mutagenic compounds, Aflatoxins, Aflatoxin precursors (e.g
+mutagenic compounds, Aflatoxins, Sterigmatocystin derivatives)
+mutagenic compounds, Aflatoxins, Aflatoxin epoxides
+mutagenic compounds, Aflatoxins, Aflatoxin hemiacetals
+mutagenic compounds, Aflatoxins, Aflatoxin dihydrodiols
+mutagenic compounds, Heterocyclic N-oxides, Azole N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Azine N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Benzazoles N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Quinolines N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Isoquinolines N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Cinnolines N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Quinazolines N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Quinoxalines N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Acridines N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Phenazines N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Purine N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Pteridine N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Fused Azole N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Fused Azine N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Alkyl-substituted Heterocyclic N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Halo-substituted Heterocyclic N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Nitro-substituted Heterocyclic N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Amino-substituted Heterocyclic N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Carboxy-substituted Heterocyclic N-oxides
+mutagenic compounds, Heterocyclic N-oxides, Methoxy-substituted Heterocyclic N-oxides
+mutagenic compounds, Intercalating agents, acridine derivatives
+mutagenic compounds, Intercalating agents, phenanthridine derivatives
+mutagenic compounds, Intercalating agents, anthraquinone derivatives
+mutagenic compounds, Intercalating agents, psoralen derivatives
+mutagenic compounds, Intercalating agents, ethidium derivatives
+mutagenic compounds, Intercalating agents, cyanine dyes
+mutagenic compounds, Intercalating agents, actinomycin derivatives
+mutagenic compounds, Intercalating agents, ellipticine derivatives
+mutagenic compounds, Intercalating agents, bisintercalators with flexible linkers
+mutagenic compounds, Intercalating agents, bisintercalators with rigid linkers
+mutagenic compounds, Metal salts, Chromates
+mutagenic compounds, Metal salts, Cadmium salts
+mutagenic compounds, Metal salts, Nickel salts
+mutagenic compounds, Metal salts, Mercury salts
+mutagenic compounds, Metal salts, Arsenic salts
+mutagenic compounds, Metal salts, Beryllium salts
+mutagenic compounds, Metal salts, Cobalt salts
+mutagenic compounds, Metal salts, Lead salts
+mutagenic compounds, Metal salts, Silver salts
+mutagenic compounds, Metal salts, Vanadium salts
+mutagenic compounds, Metal salts, Copper salts
+mutagenic compounds, Metal salts, Zinc salts
+mutagenic compounds, Metal salts, Tin salts
+mutagenic compounds, Metal salts, Iron salts
+mutagenic compounds, Metal salts, Manganese salts
+mutagenic compounds, Peroxides, Diacyl Peroxides
+mutagenic compounds, Peroxides, Dialkyl Peroxides
+mutagenic compounds, Peroxides, Peroxy Acids
+mutagenic compounds, Peroxides, Hydroperoxides
+mutagenic compounds, Peroxides, Cyclic Peroxides (3-membered)
+mutagenic compounds, Peroxides, Cyclic Peroxides (4-membered)
+mutagenic compounds, Peroxides, Cyclic Peroxides (5-membered or larger)
+mutagenic compounds, Peroxides, Polymeric Peroxides
+mutagenic compounds, Peroxides, Inorganic Peroxides
+mutagenic compounds, Peroxides, Peroxide Esters
+mutagenic compounds, Peroxides, α-Hydroxy Peroxides
+mutagenic compounds, Peroxides, α-Amino Peroxides
+mutagenic compounds, Peroxides, Polyether Peroxides
+mutagenic compounds, Peroxides, Aromatic Peroxides
+mutagenic compounds, Peroxides, Peroxides with conjugated double bonds
+mutagenic compounds, Peroxides, Peroxides with electron-withdrawing groups
+mutagenic compounds, Peroxides, Peroxides with electron-donating groups
+mutagenic compounds, Peroxides, Chiral Peroxides
+mutagenic compounds, Peroxides, Fluorinated Peroxides
+mutagenic compounds, Peroxides, Halogenated Peroxides (excluding Fluorine)
+mutagenic compounds, Peroxides, Metal Peroxides
+mutagenic compounds, Formaldehyde releasing agents, N-Methylol compounds
+mutagenic compounds, Formaldehyde releasing agents, N-Alkoxymethyl compounds
+mutagenic compounds, Formaldehyde releasing agents, Imidazolidinyl ureas
+mutagenic compounds, Formaldehyde releasing agents, Diazolidinyl ureas
+mutagenic compounds, Formaldehyde releasing agents, Quaternium-15 derivatives
+mutagenic compounds, Formaldehyde releasing agents, Tris(hydroxymethyl)nitromethane derivatives
+mutagenic compounds, Formaldehyde releasing agents, Glyoxal releasing agents
+mutagenic compounds, Formaldehyde releasing agents, Formaldehyde polymers
+mutagenic compounds, Formaldehyde releasing agents, Acetaldehyde releasing agents
+mutagenic compounds, Formaldehyde releasing agents, 2-Bromo-2-nitropropane-1
+mutagenic compounds, Formaldehyde releasing agents, 3-diol derivatives
+mutagenic compounds, Formaldehyde releasing agents, Hexahydro-1
+mutagenic compounds, Formaldehyde releasing agents, 5-tris(2-hydroxyethyl)-s-triazine derivatives
+mutagenic compounds, Formaldehyde releasing agents, Benzylhemiformal derivatives
+mutagenic compounds, Formaldehyde releasing agents, Polyoxymethylene derivatives
+mutagenic compounds, Nitrosamines, N-Nitrosodialkylamines
+mutagenic compounds, Nitrosamines, N-Nitrosopyrrolidines
+mutagenic compounds, Nitrosamines, N-Nitrosomorpholines
+mutagenic compounds, Nitrosamines, N-Nitrosopiperidines
+mutagenic compounds, Nitrosamines, N-Nitrosoazetidines
+mutagenic compounds, Nitrosamines, N-Nitrosamino acids
+mutagenic compounds, Nitrosamines, Alpha-Hydroxylated Nitrosamines
+mutagenic compounds, Nitrosamines, Beta-Hydroxylated Nitrosamines
+mutagenic compounds, Nitrosamines, Nitrosamines with alpha-carbonyl groups
+mutagenic compounds, Nitrosamines, Cyclic Nitrosamines with exocyclic double bonds
+mutagenic compounds, Nitrosamines, Unsaturated N-Nitrosamines
+mutagenic compounds, Nitrosamines, Aromatic Nitrosamines
+mutagenic compounds, Nitrosamines, N-Nitrosoureas
+mutagenic compounds, Nitrosamines, N-Nitrosoguanidines
+mutagenic compounds, Nitrosamines, N-Nitrosoamides
+mutagenic compounds, Nitrosamines, Halogenated Nitrosamines
+mutagenic compounds, Nitrosamines, Alkylated Nitrosamines
+mutagenic compounds, Nitrosamines, N-Nitrosoimines
+mutagenic compounds, Nitrosamines, Polycyclic Nitrosamines
+mutagenic compounds, Nitrosamines, Nitrosamines with ester groups
+mutagenic compounds, Nitrosamines, Nitrosamines with ether groups
+mutagenic compounds, Acrylamides, alpha
+mutagenic compounds, Acrylamides, beta-Unsaturated Amides
+mutagenic compounds, Acrylamides, N-Substituted Acrylamides
+mutagenic compounds, Acrylamides, N-Disubstituted Acrylamides
+mutagenic compounds, Acrylamides, Glycidyl Acrylamides
+mutagenic compounds, Acrylamides, Halogenated Acrylamides
+mutagenic compounds, Acrylamides, Alkoxy Acrylamides
+mutagenic compounds, Acrylamides, Acrylamide Polymers
+mutagenic compounds, Acrylamides, Acrylamide Copolymers
+mutagenic compounds, Acrylamides, Bis-Acrylamides
+mutagenic compounds, Acrylamides, Cyanoacrylates
+mutagenic compounds, Acrylamides, Acryloyl Morpholines
+mutagenic compounds, Hydrazines, Monosubstituted Hydrazines
+mutagenic compounds, Hydrazines, 1-Disubstituted Hydrazines
+mutagenic compounds, Hydrazines, 2-Disubstituted Hydrazines
+mutagenic compounds, Hydrazines, Aromatic Hydrazines
+mutagenic compounds, Hydrazines, Acyl Hydrazines
+mutagenic compounds, Hydrazines, Alkyl Hydrazines
+mutagenic compounds, Hydrazines, Hydrazides
+mutagenic compounds, Hydrazines, Hydrazones
+mutagenic compounds, Hydrazines, Cyclic Hydrazines
+mutagenic compounds, Hydrazines, Polyhydrazines
+mutagenic compounds, Hydrazines, Hydrazinium Salts
+mutagenic compounds, Hydrazines, Carbohydrazides
+mutagenic compounds, Hydrazines, Thiosemicarbazides
+mutagenic compounds, Hydrazines, Azides from Hydrazines
+mutagenic compounds, Azides, Aliphatic Azides
+mutagenic compounds, Azides, Aromatic Azides
+mutagenic compounds, Azides, Acyl Azides
+mutagenic compounds, Azides, Sulfonyl Azides
+mutagenic compounds, Azides, Azido Sugars
+mutagenic compounds, Azides, Azido Peptides
+mutagenic compounds, Azides, Diazido Alkanes
+mutagenic compounds, Azides, Polycyclic Aromatic Azides
+mutagenic compounds, Azides, Heterocyclic Azides
+mutagenic compounds, Azides, Vinyl Azides
+mutagenic compounds, Azides, Allyl Azides
+mutagenic compounds, Furans, Furan aldehydes
+mutagenic compounds, Furans, Nitrofurans
+mutagenic compounds, Furans, Halogenated furans
+mutagenic compounds, Furans, Alkylfurans
+mutagenic compounds, Furans, Furan carboxylic acids
+mutagenic compounds, Furans, Unsaturated furans
+mutagenic compounds, Furans, Benzofurans
+mutagenic compounds, Furans, Dibenzofurans
+mutagenic compounds, Furans, Furan epoxides
+mutagenic compounds, Furans, Furanones
+mutagenic compounds, Halogenated furans, 2-Halofurans
+mutagenic compounds, Halogenated furans, 3-Halofurans
+mutagenic compounds, Halogenated furans, 3-Dihalofurans
+mutagenic compounds, Halogenated furans, 5-Dihalofurans
+mutagenic compounds, Halogenated furans, 4-Dihalofurans
+mutagenic compounds, Halogenated furans, Trihalofurans
+mutagenic compounds, Halogenated furans, Tetrahalofurans
+mutagenic compounds, Halogenated furans, Chlorofurans
+mutagenic compounds, Halogenated furans, Bromofurans
+mutagenic compounds, Halogenated furans, Iodofurans
+mutagenic compounds, Halogenated furans, Fluorofurans
+mutagenic compounds, Halogenated furans, Mixed Halofurans (Cl/Br)
+mutagenic compounds, Halogenated furans, Mixed Halofurans (Cl/I)
+mutagenic compounds, Halogenated furans, Mixed Halofurans (Br/I)
+mutagenic compounds, Halogenated furans, Halofurans with alkyl substituents
+mutagenic compounds, Halogenated furans, Halofurans with nitro substituents
+mutagenic compounds, Halogenated furans, Halofurans with carbonyl substituents
+mutagenic compounds, Halogenated furans, Halofurans with amino substituents
+mutagenic compounds, Halogenated furans, Halofurans with carboxylic acid substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioate Monoesters
+mutagenic compounds, Phosphorothioates, Phosphorothioate Diesters
+mutagenic compounds, Phosphorothioates, Cyclic Phosphorothioates
+mutagenic compounds, Phosphorothioates, Acyclic Phosphorothioates
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Aromatic Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Aliphatic Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Halogenated Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Amino Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Carboxylic Acid Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Ester Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Amide Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Ether Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Thioether Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Sulfoxide Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Sulfone Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Primary Amines
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Secondary Amines
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Tertiary Amines
+mutagenic compounds, Phosphorothioates, S-Alkyl Phosphorothioates
+mutagenic compounds, Phosphorothioates, S-Aryl Phosphorothioates
+mutagenic compounds, Phosphorothioates, O-Alkyl Phosphorothioates
+mutagenic compounds, Phosphorothioates, O-Aryl Phosphorothioates
+mutagenic compounds, Phosphorothioates, Phosphorothioate Oligonucleotides
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Sugar Moieties
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Modified Bases
+mutagenic compounds, Phosphorothioates, Alpha-Phosphorothioates
+mutagenic compounds, Phosphorothioates, Beta-Phosphorothioates
+mutagenic compounds, Phosphorothioates, Gamma-Phosphorothioates
+mutagenic compounds, Quinones, 4-Benzoquinones
+mutagenic compounds, Quinones, 2-Benzoquinones
+mutagenic compounds, Quinones, Naphthoquinones
+mutagenic compounds, Quinones, Anthraquinones
+mutagenic compounds, Quinones, Alkyl-substituted Benzoquinones
+mutagenic compounds, Quinones, Hydroxy-substituted Benzoquinones
+mutagenic compounds, Quinones, Halogenated Benzoquinones
+mutagenic compounds, Quinones, Isoprenoid Quinones
+mutagenic compounds, Quinones, Prenylated Quinones
+mutagenic compounds, Quinones, Quinone Methides
+mutagenic compounds, Quinones, Amino-substituted Quinones
+mutagenic compounds, Quinones, Epoxyquinones
+mutagenic compounds, Quinones, Dimeric Quinones
+mutagenic compounds, Quinones, Quinone Glycosides
+mutagenic compounds, Quinones, Heterocyclic Quinones
+mutagenic compounds, Quinones, Polycyclic Quinones
+mutagenic compounds, Quinones, Terpenoid Quinones
+mutagenic compounds, Quinones, Quinones with unsaturated side chains
+mutagenic compounds, Quinones, Quinones with saturated side chains
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Styrenes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Phenylbutadienes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Alkylidenecyclohexanes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Arylpropenes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Benzylidene derivatives
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Fulvenes
+mutagenic compounds, Aromatic hydrocarbons with exocyclic double bonds, Diarylethylenes
+mutagenic compounds, Benzidines, 3'-Disubstituted Benzidines
+mutagenic compounds, Benzidines, 3'-Dihalobenzidines
+mutagenic compounds, Benzidines, 3'-Dialkoxybenzidines
+mutagenic compounds, Benzidines, 3'-Dialkylbenzidines
+mutagenic compounds, Benzidines, Benzidine-based Azo Dyes
+mutagenic compounds, Benzidines, 3'-Disubstituted Benzidine-based Azo Dyes
+mutagenic compounds, Benzidines, 2-Substituted Benzidines
+mutagenic compounds, Benzidines, N-acetylated Benzidines
+mutagenic compounds, Benzidines, N'-Diacetylated Benzidines
+mutagenic compounds, Thioamides, N-aryl thioamides
+mutagenic compounds, Thioamides, N-alkyl thioamides
+mutagenic compounds, Thioamides, Thioureas
+mutagenic compounds, Thioamides, Thioamides with heterocyclic substitution
+mutagenic compounds, Thioamides, Alpha-substituted thioamides
+mutagenic compounds, Thioamides, Beta-substituted thioamides
+mutagenic compounds, Thioamides, Thioamides with unsaturated chains
+mutagenic compounds, Thioamides, Cyclic thioamides
+mutagenic compounds, Thioamides, Thioamides with electron-withdrawing groups
+mutagenic compounds, Thioamides, Thioamides with electron-donating groups
+mutagenic compounds, Thioamides, Thioamides with fused aromatic rings
+mutagenic compounds, Thioamides, Thioamides with halogen substituents
+mutagenic compounds, Thioamides, Thioamides with nitro substituents
+mutagenic compounds, Thioamides, Thioamides containing carbonyl groups
+mutagenic compounds, Thioamides, Thioamides containing hydroxyl groups
+mutagenic compounds, Epichlorohydrin, Epichlorohydrin-Alpha Substituted
+mutagenic compounds, Epichlorohydrin, Epichlorohydrin-Beta Substituted
+mutagenic compounds, Epichlorohydrin, Halogenated Epichlorohydrin
+mutagenic compounds, Epichlorohydrin, Alkylated Epichlorohydrin
+mutagenic compounds, Epichlorohydrin, Epichlorohydrin Glycidyl Ethers
+mutagenic compounds, Epichlorohydrin, Epichlorohydrin Esters
+mutagenic compounds, Epichlorohydrin, Epichlorohydrin Halohydrins
+mutagenic compounds, β-lactones, 4-Substituted β-lactones
+mutagenic compounds, β-lactones, 3-Substituted β-lactones
+mutagenic compounds, β-lactones, β-Unsaturated β-lactones
+mutagenic compounds, β-lactones, Spiro-β-lactones
+mutagenic compounds, β-lactones, Bicyclic β-lactones
+mutagenic compounds, β-lactones, Fused β-lactones
+mutagenic compounds, β-lactones, β-Lactones with exocyclic unsaturation
+mutagenic compounds, β-lactones, Halogenated β-lactones
+mutagenic compounds, β-lactones, Alkyl substituted β-lactones
+mutagenic compounds, β-lactones, Aryl substituted β-lactones
+mutagenic compounds, β-lactones, β-Lactones with carbonyl substituents
+mutagenic compounds, β-lactones, β-Lactones with nitrogen substituents
+mutagenic compounds, β-lactones, β-Lactones with oxygen substituents
+mutagenic compounds, β-lactones, β-Lactones with sulfur substituents
+mutagenic compounds, β-lactones, β-Lactones with phosphorus substituents
+mutagenic compounds, β-lactones, β-Lactones fused to heterocycles
+mutagenic compounds, β-lactones, β-Lactones with quaternary carbon at C4
+mutagenic compounds, β-lactones, β-Lactones with quaternary carbon at C3
+mutagenic compounds, β-lactones, β-Lactones with strained ring systems
+mutagenic compounds, β-lactones, β-Lactones with large substituents at C4
+mutagenic compounds, Alkyl sulfonates, Methyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Ethyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Propyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Butyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Cyclic sulfonates (3-membered ring)
+mutagenic compounds, Alkyl sulfonates, Cyclic sulfonates (4-membered ring)
+mutagenic compounds, Alkyl sulfonates, Unsaturated alkyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Alpha-substituted alkyl sulfonates (electron withdrawing group)
+mutagenic compounds, Alkyl sulfonates, Beta-substituted alkyl sulfonates (electron withdrawing group)
+mutagenic compounds, Alkyl sulfonates, Aryl alkyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Halogenated alkyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Hydroxylated alkyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Sulfonated esters
+mutagenic compounds, N-nitroso compounds, N-nitrosamines
+mutagenic compounds, N-nitroso compounds, N-nitrosamides
+mutagenic compounds, N-nitroso compounds, N-nitrosoureas
+mutagenic compounds, N-nitroso compounds, N-nitrosoguanidines
+mutagenic compounds, N-nitroso compounds, Cyclic N-nitrosamines (5-membered ring)
+mutagenic compounds, N-nitroso compounds, Cyclic N-nitrosamines (6-membered ring)
+mutagenic compounds, N-nitroso compounds, Alpha-substituted N-nitrosamines (alpha-H)
+mutagenic compounds, N-nitroso compounds, Alpha-substituted N-nitrosamines (alpha-carbonyl)
+mutagenic compounds, N-nitroso compounds, Beta-unsaturated N-nitrosamines
+mutagenic compounds, N-nitroso compounds, Hydroxylated N-nitrosamines
+mutagenic compounds, N-nitroso compounds, Nitrosoamino acids
+mutagenic compounds, N-nitroso compounds, Nitrosopeptides
+mutagenic compounds, N-nitroso compounds, N-nitroso carbamates
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and saturated furan ring
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and unsaturated furan ring
+mutagenic compounds, Nitrofurans, Nitrofurans with 2-acylamino-5-nitro group
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and Schiff base at 2-position
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and amide at 2-position
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and hydrazide at 2-position
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and alkyl substitution at 3-position
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and halogen substitution
+mutagenic compounds, Nitrofurans, Nitrofurans with nitro group at position other than 5
+mutagenic compounds, Nitrofurans, Nitrofurans with extended conjugated side chains at 2-position
+mutagenic compounds, Nitrofurans, Nitrofurans with fused heterocyclic rings at 2-position
+mutagenic compounds, Nitropyrenes, 1-Nitropyrenes
+mutagenic compounds, Nitropyrenes, 3-Dinitropyrenes
+mutagenic compounds, Nitropyrenes, 6-Dinitropyrenes
+mutagenic compounds, Nitropyrenes, 8-Dinitropyrenes
+mutagenic compounds, Nitropyrenes, 1-Nitropyrene with alkyl substitutions
+mutagenic compounds, Nitropyrenes, 1-Nitropyrene with halogen substitutions
+mutagenic compounds, Nitropyrenes, 1-Nitropyrene with carbonyl substitutions
+mutagenic compounds, Nitropyrenes, 1-Nitropyrene with amino substitutions
+mutagenic compounds, Nitropyrenes, Hydroxylated Nitropyrenes
+mutagenic compounds, Nitropyrenes, Nitro-hydroxypyrenes
+mutagenic compounds, Nitropyrenes, Tetranitropyrenes
+mutagenic compounds, Nitropyrenes, Hydrogenated Nitropyrenes
+mutagenic compounds, Nitropyrenes, Nitropyrene quinones

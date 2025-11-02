@@ -1,0 +1,21 @@
+mutagenic compounds, Nitrosamines, N-Nitrosodialkylamines
+mutagenic compounds, Nitrosamines, N-Nitrosopyrrolidines
+mutagenic compounds, Nitrosamines, N-Nitrosomorpholines
+mutagenic compounds, Nitrosamines, N-Nitrosopiperidines
+mutagenic compounds, Nitrosamines, N-Nitrosoazetidines
+mutagenic compounds, Nitrosamines, N-Nitrosamino acids
+mutagenic compounds, Nitrosamines, Alpha-Hydroxylated Nitrosamines
+mutagenic compounds, Nitrosamines, Beta-Hydroxylated Nitrosamines
+mutagenic compounds, Nitrosamines, Nitrosamines with alpha-carbonyl groups
+mutagenic compounds, Nitrosamines, Cyclic Nitrosamines with exocyclic double bonds
+mutagenic compounds, Nitrosamines, Unsaturated N-Nitrosamines
+mutagenic compounds, Nitrosamines, Aromatic Nitrosamines
+mutagenic compounds, Nitrosamines, N-Nitrosoureas
+mutagenic compounds, Nitrosamines, N-Nitrosoguanidines
+mutagenic compounds, Nitrosamines, N-Nitrosoamides
+mutagenic compounds, Nitrosamines, Halogenated Nitrosamines
+mutagenic compounds, Nitrosamines, Alkylated Nitrosamines
+mutagenic compounds, Nitrosamines, N-Nitrosoimines
+mutagenic compounds, Nitrosamines, Polycyclic Nitrosamines
+mutagenic compounds, Nitrosamines, Nitrosamines with ester groups
+mutagenic compounds, Nitrosamines, Nitrosamines with ether groups

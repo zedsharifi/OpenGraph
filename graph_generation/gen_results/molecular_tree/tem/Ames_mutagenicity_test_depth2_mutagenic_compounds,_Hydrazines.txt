@@ -1,0 +1,14 @@
+mutagenic compounds, Hydrazines, Monosubstituted Hydrazines
+mutagenic compounds, Hydrazines, 1-Disubstituted Hydrazines
+mutagenic compounds, Hydrazines, 2-Disubstituted Hydrazines
+mutagenic compounds, Hydrazines, Aromatic Hydrazines
+mutagenic compounds, Hydrazines, Acyl Hydrazines
+mutagenic compounds, Hydrazines, Alkyl Hydrazines
+mutagenic compounds, Hydrazines, Hydrazides
+mutagenic compounds, Hydrazines, Hydrazones
+mutagenic compounds, Hydrazines, Cyclic Hydrazines
+mutagenic compounds, Hydrazines, Polyhydrazines
+mutagenic compounds, Hydrazines, Hydrazinium Salts
+mutagenic compounds, Hydrazines, Carbohydrazides
+mutagenic compounds, Hydrazines, Thiosemicarbazides
+mutagenic compounds, Hydrazines, Azides from Hydrazines

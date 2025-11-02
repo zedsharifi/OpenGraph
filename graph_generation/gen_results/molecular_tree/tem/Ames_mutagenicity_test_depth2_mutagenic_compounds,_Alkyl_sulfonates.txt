@@ -1,0 +1,13 @@
+mutagenic compounds, Alkyl sulfonates, Methyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Ethyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Propyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Butyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Cyclic sulfonates (3-membered ring)
+mutagenic compounds, Alkyl sulfonates, Cyclic sulfonates (4-membered ring)
+mutagenic compounds, Alkyl sulfonates, Unsaturated alkyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Alpha-substituted alkyl sulfonates (electron withdrawing group)
+mutagenic compounds, Alkyl sulfonates, Beta-substituted alkyl sulfonates (electron withdrawing group)
+mutagenic compounds, Alkyl sulfonates, Aryl alkyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Halogenated alkyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Hydroxylated alkyl sulfonates
+mutagenic compounds, Alkyl sulfonates, Sulfonated esters

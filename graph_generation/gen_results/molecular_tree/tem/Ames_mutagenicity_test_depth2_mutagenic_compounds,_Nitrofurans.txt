@@ -1,0 +1,11 @@
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and saturated furan ring
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and unsaturated furan ring
+mutagenic compounds, Nitrofurans, Nitrofurans with 2-acylamino-5-nitro group
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and Schiff base at 2-position
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and amide at 2-position
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and hydrazide at 2-position
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and alkyl substitution at 3-position
+mutagenic compounds, Nitrofurans, Nitrofurans with 5-nitro group and halogen substitution
+mutagenic compounds, Nitrofurans, Nitrofurans with nitro group at position other than 5
+mutagenic compounds, Nitrofurans, Nitrofurans with extended conjugated side chains at 2-position
+mutagenic compounds, Nitrofurans, Nitrofurans with fused heterocyclic rings at 2-position

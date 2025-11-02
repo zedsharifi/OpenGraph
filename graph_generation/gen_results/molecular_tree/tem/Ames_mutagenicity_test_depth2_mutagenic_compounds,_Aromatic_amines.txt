@@ -1,0 +1,10 @@
+mutagenic compounds, Aromatic amines, Aniline derivatives
+mutagenic compounds, Aromatic amines, Benzidine derivatives
+mutagenic compounds, Aromatic amines, N-alkylated aromatic amines
+mutagenic compounds, Aromatic amines, Nitroaromatic amines
+mutagenic compounds, Aromatic amines, Heterocyclic aromatic amines
+mutagenic compounds, Aromatic amines, Aminoazobenzene derivatives
+mutagenic compounds, Aromatic amines, Aminoanthraquinone derivatives
+mutagenic compounds, Aromatic amines, Halogenated aromatic amines
+mutagenic compounds, Aromatic amines, Ortho-substituted aromatic amines
+mutagenic compounds, Aromatic amines, Polycyclic aromatic amines

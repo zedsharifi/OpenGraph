@@ -1,0 +1,28 @@
+mutagenic compounds, Phosphorothioates, Phosphorothioate Monoesters
+mutagenic compounds, Phosphorothioates, Phosphorothioate Diesters
+mutagenic compounds, Phosphorothioates, Cyclic Phosphorothioates
+mutagenic compounds, Phosphorothioates, Acyclic Phosphorothioates
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Aromatic Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Aliphatic Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Halogenated Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Amino Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Carboxylic Acid Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Ester Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Amide Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Ether Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Thioether Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Sulfoxide Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Sulfone Substituents
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Primary Amines
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Secondary Amines
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Tertiary Amines
+mutagenic compounds, Phosphorothioates, S-Alkyl Phosphorothioates
+mutagenic compounds, Phosphorothioates, S-Aryl Phosphorothioates
+mutagenic compounds, Phosphorothioates, O-Alkyl Phosphorothioates
+mutagenic compounds, Phosphorothioates, O-Aryl Phosphorothioates
+mutagenic compounds, Phosphorothioates, Phosphorothioate Oligonucleotides
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Sugar Moieties
+mutagenic compounds, Phosphorothioates, Phosphorothioates with Modified Bases
+mutagenic compounds, Phosphorothioates, Alpha-Phosphorothioates
+mutagenic compounds, Phosphorothioates, Beta-Phosphorothioates
+mutagenic compounds, Phosphorothioates, Gamma-Phosphorothioates

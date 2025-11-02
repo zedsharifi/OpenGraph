@@ -1,0 +1,15 @@
+mutagenic compounds, Metal salts, Chromates
+mutagenic compounds, Metal salts, Cadmium salts
+mutagenic compounds, Metal salts, Nickel salts
+mutagenic compounds, Metal salts, Mercury salts
+mutagenic compounds, Metal salts, Arsenic salts
+mutagenic compounds, Metal salts, Beryllium salts
+mutagenic compounds, Metal salts, Cobalt salts
+mutagenic compounds, Metal salts, Lead salts
+mutagenic compounds, Metal salts, Silver salts
+mutagenic compounds, Metal salts, Vanadium salts
+mutagenic compounds, Metal salts, Copper salts
+mutagenic compounds, Metal salts, Zinc salts
+mutagenic compounds, Metal salts, Tin salts
+mutagenic compounds, Metal salts, Iron salts
+mutagenic compounds, Metal salts, Manganese salts
