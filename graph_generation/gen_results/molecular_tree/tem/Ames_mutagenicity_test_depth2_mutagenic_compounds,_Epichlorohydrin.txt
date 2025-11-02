@@ -1,7 +1,0 @@
-mutagenic compounds, Epichlorohydrin, Epichlorohydrin-Alpha Substituted
-mutagenic compounds, Epichlorohydrin, Epichlorohydrin-Beta Substituted
-mutagenic compounds, Epichlorohydrin, Halogenated Epichlorohydrin
-mutagenic compounds, Epichlorohydrin, Alkylated Epichlorohydrin
-mutagenic compounds, Epichlorohydrin, Epichlorohydrin Glycidyl Ethers
-mutagenic compounds, Epichlorohydrin, Epichlorohydrin Esters
-mutagenic compounds, Epichlorohydrin, Epichlorohydrin Halohydrins
