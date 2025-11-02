@@ -134,10 +134,22 @@ class DataHandler:
     def load_data(self):
         self.adj = self.load_one_file(self.adj_file)
         self.labels = self.load_feats(self.label_file)
-        if np.min(self.labels) != 0:
-            log(f'Class label starts from {np.min(self.labels)}')
-            self.labels -= np.min(self.labels)
-        args.class_num = np.max(self.labels) + 1
+        
+        # FIX: Handle both one-hot encoded and integer labels
+        if len(self.labels.shape) > 1 and self.labels.shape[1] > 1:
+            # One-hot encoded labels - convert to integers
+            log(f'Labels are one-hot encoded with shape {self.labels.shape}')
+            self.labels = np.argmax(self.labels, axis=1)
+            args.class_num = int(np.max(self.labels) + 1)
+        else:
+            # Integer labels
+            if np.min(self.labels) != 0:
+                log(f'Class label starts from {np.min(self.labels)}')
+                self.labels -= np.min(self.labels)
+            args.class_num = int(np.max(self.labels) + 1)
+        
+        log(f'Number of classes: {args.class_num}')
+        
         masks = self.load_feats(self.mask_file)
         self.trn_mask, self.val_mask, self.tst_mask = masks['train'], masks['valid'], masks['test']
 
