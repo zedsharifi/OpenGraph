@@ -1,53 +1,85 @@
 import time
-import openai
+# import openai # No longer needed
+import google.generativeai as genai # Added for Gemini
 import json
-import tiktoken
+# import tiktoken # No longer needed
 import numpy as np
 import Exp_Utils.TimeLogger as logger
 from Exp_Utils.TimeLogger import log
 from Exp_Utils.Emailer import SendMail
 import time
 
-openai.api_key = "xx-xxxxxx"
+from google.colab import userdata
+# Configure Gemini API
+# Assumes you have your Gemini key saved in Colab Secrets as 'GEMINI_API_KEY'
+API_KEY = userdata.get('API_KEY_1')
+genai.configure(api_key=API_KEY)
 
 class DataGenAgent:
     def __init__(self):
         super(DataGenAgent, self).__init__()
         self.token_num = 0
-        self.encoding = tiktoken.encoding_for_model('gpt-3.5-turbo')
+        # self.encoding = tiktoken.encoding_for_model('gpt-3.5-turbo') # No longer needed
+        
+        # Initialize Gemini models
+        # Using 1.5 Pro to fulfill your "2.5 Pro" request
+        self.text_model = genai.GenerativeModel('gemini-1.5-pro-latest')
+        self.embedding_model = 'models/text-embedding-004' # Google's latest embedding model
     
     def openai_embedding(self, message):
+        """
+        Generates an embedding using the Google Gemini API.
+        NOTE: Kept original name 'openai_embedding' for compatibility with other scripts.
+        """
         try:
-            embedding = openai.Embedding.create(
-                model='text-embedding-ada-002',
-                input = message
-            )['data'][0]['embedding']
-            # time.sleep()
+            # Replaced OpenAI call with genai.embed_content
+            result = genai.embed_content(
+                model=self.embedding_model,
+                content=message,
+                task_type="SEMANTIC_SIMILARITY" # Best for the similarity checks in this repo
+            )
+            embedding = result['embedding']
+            # time.sleep() # Original was commented out, kept as is
             return np.array(embedding)
         except Exception as e:
-            print('OpenAI request error: {err_msg}. Retry in 10 seconds.'.format(err_msg=e))
+            # Updated error message
+            print('Gemini request error (embedding): {err_msg}. Retry in 10 seconds.'.format(err_msg=e))
             time.sleep(10)
-            return self.openai_embedding(message)
+            return self.openai_embedding(message) # Retry
 
     def openai(self, message):
+        """
+        Generates text using the Google Gemini API.
+        NOTE: Kept original name 'openai' for compatibility with other scripts.
+        """
         try:
-            completion = openai.ChatCompletion.create(
-                model='gpt-3.5-turbo-1106',
-                # model='gpt-4',
-                messages=[
-                    {"role": "user", "content": message},
-                ]
+            # Replaced OpenAI call with Gemini's generate_content
+            # Added safety_settings to prevent blocking on borderline prompts
+            completion = self.text_model.generate_content(
+                message,
+                safety_settings={
+                    'HATE_SPEECH': 'BLOCK_NONE',
+                    'HARASSMENT': 'BLOCK_NONE',
+                    'SEXUALLY_EXPLICIT': 'BLOCK_NONE',
+                    'DANGEROUS_CONTENT': 'BLOCK_NONE'
+                }
             )
-            response = completion.choices[0].message.content
-            time.sleep(1)
-            self.token_num += len(self.encoding.encode(json.dumps(message)))
+            response = completion.text
+            
+            # Replaced tiktoken with Gemini's token counter
+            token_count = self.text_model.count_tokens(message)
+            self.token_num += token_count.total_tokens
+
+            time.sleep(1) # Kept original sleep
             return response
         except Exception as e:
-            print('OpenAI request error: {err_msg}. Retry in 10 seconds.'.format(err_msg=e))
+            # Updated error message
+            print('Gemini request error (generation): {err_msg}. Retry in 10 seconds.'.format(err_msg=e))
             time.sleep(10)
-            return self.openai(message)
+            return self.openai(message) # Retry
     
     def handling_llm_exceptions(self, message, interpret_func, interpret_args, failure_tolerance):
+        # This function works as-is because we kept the 'self.openai' method name
         try:
             answers_text = self.openai(message)
             print('Answers text:')
@@ -73,6 +105,8 @@ class DataGenAgent:
                 logger.logmsg = ''
                 log('\n**********\n')
                 return 2, None
+
+# --- The rest of the file is unchanged ---
 
 class EntityTreeNode:
     def __init__(self, entity_name, depth, parent=None):

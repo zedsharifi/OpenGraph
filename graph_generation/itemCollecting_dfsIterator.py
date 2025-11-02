@@ -1,40 +1,63 @@
 # from langchain.prompts import PromptTemplate
 # from langchain.llms import OpenAI
 import os
-import openai
+# import openai # No longer needed
+import google.generativeai as genai # Added for Gemini
 import time
-import tiktoken
+# import tiktoken # No longer needed
 import json
 
-openai.api_key = "xxxxxx"
+from google.colab import userdata
+# Load your Gemini key
+API_KEY = userdata.get('API_key_1')
+genai.configure(api_key=API_KEY)
+
 class DataGenAgent:
     def __init__(self, initial_entity, scenario_desc, depth):
         super(DataGenAgent, self).__init__()
 
-        # self.openai = OpenAI(temperature=0)
+        # self.openai = OpenAI(temperature=0) # Original line
         self.initial_entity = initial_entity
         self.scenario_desc = scenario_desc
-        self.encoding = tiktoken.encoding_for_model('gpt-3.5-turbo')
+        # self.encoding = tiktoken.encoding_for_model('gpt-3.5-turbo') # No longer needed
         self.token_num = 0
         self.total_num = 0
         self.depth = depth
 
+        # Initialize Gemini model
+        self.model = genai.GenerativeModel(
+            'gemini-2.5-flash',
+            # Added safety_settings to prevent blocking on borderline prompts
+            safety_settings={
+                'HARM_CATEGORY_HATE_SPEECH': 'BLOCK_NONE',
+                'HARM_CATEGORY_HARASSMENT': 'BLOCK_NONE',
+                'HARM_CATEGORY_SEXUALLY_EXPLICIT': 'BLOCK_NONE',
+                'HARM_CATEGORY_DANGEROUS_CONTENT': 'BLOCK_NONE'
+            }
+        )
+
     def openai(self, message):
+        """
+        Generates text using the Google Gemini API.
+        NOTE: Kept original name 'openai' for compatibility with the script's logic.
+        """
         try:
-            completion = openai.ChatCompletion.create(
-                model='gpt-3.5-turbo-1106',
-                messages=[
-                    {"role": "user", "content": message},
-                ]
-            )
-            response = completion.choices[0].message.content
-            time.sleep(1)
-            self.token_num += len(self.encoding.encode(json.dumps(message)))
+            # Replaced OpenAI call with Gemini's generate_content
+            completion = self.model.generate_content(message)
+            response = completion.text
+            
+            time.sleep(1) # Kept original sleep
+            
+            # Replaced tiktoken with Gemini's token counter
+            token_count = self.model.count_tokens(message)
+            self.token_num += token_count.total_tokens
+            
             return response
         except Exception as e:
-            print('Exception occurs. Retry in 10 seconds.')
+            # Updated error message
+            print(f'Gemini Exception occurs: {e}. Retry in 10 seconds.')
             time.sleep(10)
-            return self.openai(message)
+            return self.openai(message) # Retry
 
     def check_if_concrete(self, entity_stack):
         entity_name = ', '.join(entity_stack)
@@ -75,7 +98,9 @@ class DataGenAgent:
             print('Depth {depth}, current num of nodes {num}, total num of nodes {total_num}, num of tokens {token}'.format(depth=depth, num=len(concrete_entities), total_num=self.total_num, token=self.token_num))
         if depth <= 2:
             print('Storing...')
-            tem_file = 'gen_results/tem/{scenario}_depth{depth}_{cur_entity}'.format(scenario=self.scenario_desc, depth=str(depth), cur_entity=entity_name)
+            # Ensure the gen_results/tem directory exists
+            os.makedirs('gen_results/tem', exist_ok=True) 
+            tem_file = 'gen_results/tem/{scenario}_depth{depth}_{cur_entity}'.format(scenario=self.scenario_desc, depth=str(depth), cur_entity=entity_name.replace('/', '_')) # Added replace for safety
             with open(tem_file, 'w+') as fs:
                 for node in concrete_entities:
                     fs.write(node + '\n')
@@ -115,6 +140,8 @@ depth = 3
 
 agent = DataGenAgent(entity, scenario, depth)
 nodes = agent.run()
+# Ensure the gen_results directory exists
+os.makedirs('gen_results', exist_ok=True)
 with open('gen_results/{entity}_{scenario}.txt'.format(entity=entity, scenario=scenario), 'w+') as fs:
     for node in nodes:
         fs.write(node+'\n')
