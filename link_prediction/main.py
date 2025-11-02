@@ -247,6 +247,9 @@ if __name__ == '__main__':
     # trn_datasets = ['gen0']
     # tst_datasets = ['amazon-book']
 
+    trn_datasets = ['gen_data_mutag']
+    tst_datasets = ['mutag']
+
     if len(args.tstdata) != 0:
         tst_datasets = [args.tstdata]
     if len(args.trndata) != 0:
